@@ -1,0 +1,4 @@
+/* Hide the entire submenu for the Academy parent menu item */
+#toplevel_page_academy .wp-submenu {
+    display: none;
+}
